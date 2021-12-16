@@ -1,0 +1,54 @@
+.main{
+    background-color: #131921;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+
+}
+.logo{
+    height: 45px;
+    width: auto;
+    margin: 10px;
+
+}
+.search_bar{
+    flex: 1;
+
+}
+.search_bar >input{
+    padding: 5px;
+    width: 80%;
+    border-radius: 5px;
+
+}
+.location{
+    color: #ffff;
+    margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font: italic;
+
+}
+.options{
+    display: flex;
+    
+}
+.login_details{
+    display: flex;
+    flex-direction: column;
+
+}
+small{
+    color: #ffff;
+    margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font: italic;
+    cursor: pointer;
+}
+.basket{
+    color: #ffff!important;
+    margin-right: 10px;
+}

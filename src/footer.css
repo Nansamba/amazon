@@ -1,0 +1,88 @@
+.main_footer{
+    background: #000;
+    display: flex;
+    padding: 10px;
+    margin: 5px;
+    /* justify-content: space-between; */
+    align-items: center;
+
+
+}
+.column_1{
+ width: 30%;
+ margin-top: 10px;
+}
+.column_2{
+    width: 20%;
+    margin: 20px;
+    padding: 15px;
+}
+.column_3{
+    width: 20%;
+    margin: 20px;
+    padding: 15px; 
+}
+.column_4{
+    width: 30%;
+    margin: 20px;
+}
+
+.footer_image{
+    height: 50px;
+    margin-top: 10px;
+}
+.brand{
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    /* padding: 5px; */
+    color: whitesmoke;
+
+}
+.footer_description{
+    padding: 5px;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+}
+.email_icon{
+    color: white;
+    margin-bottom: -5px;
+    margin-right: 5px;
+}
+.email{
+    padding: 5px;
+    color: cadetblue;
+    text-transform: capitalize;
+    font-family: 'Times New Roman', Times, serif; 
+}
+.contact{
+    padding: 5px;
+    color: cadetblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.links{
+    color: wheat;
+    padding: 5px;
+    cursor: pointer;
+}
+.tittle{
+    color: white;
+    font-size: 18px;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+}
+.mb-3 >input{
+    color: orangered;
+    border-radius: 5px;
+    padding: 5px;
+    text-transform: capitalize;
+    margin: 5px;
+    background: orangered;
+}
+.send{
+    background: orangered;
+    padding: 5px;
+    margin: 5px;
+    text-transform: capitalize;
+    border-radius: 5px;
+}

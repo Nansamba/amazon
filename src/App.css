@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+
+
+
+
+.product_row{
+  margin-left: 5px;
+  display: flex;
+  background-color: #fff;
+  z-index: 1;
+}
